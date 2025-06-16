@@ -80,6 +80,6 @@ Jika kamu butuh versi dalam Bahasa Indonesia penuh atau dalam format siap GitHub
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/username/down-syndrome-ann.git
-cd down-syndrome-ann
+git clone https://github.com/Gezod/down_syndrom_ai_streamlit
+cd down_syndrom_ai_streamlit
 
