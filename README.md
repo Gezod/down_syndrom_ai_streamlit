@@ -60,7 +60,7 @@ MIT License
 👤 Pengembang
 Dikembangkan oleh [Kelompok 7], sebagai bagian dari proyek pembelajaran AI dan deteksi dini kesehatan masyarakat.
 - Refangga Lintar Prayoga 1204220137
--
+- Amiralutfia Desy Ramadhani 1204220060
 - 
 
 
